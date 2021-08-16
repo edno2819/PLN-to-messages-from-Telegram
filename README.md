@@ -1,12 +1,12 @@
-#Análise de sentimentos em grupos de telegram
+<h1>Análise de sentimentos em grupos de telegram</h1>
 
-**Scrap de canais do Telegram
-**Armazenamento em um banco de dados
-**Criação de IA's para classificação das menssagens
-**Criação de um Dash Board para vizualização
-*Filtra menssages:
+<h2>Scrap de canais do Telegram</h2>
+<h2>Armazenamento em um banco de dados</h2>
+<h2>Criação de IA's para classificação das menssagens</h2>
+<h2>Criação de um Dash Board para vizualização</h2>
+<h3>Filtra menssages:</h3>
  - Por pessoas
  - por sentimentos
  - Temas
-*Temas reccorentes
-*Quantas ocorrências da palavra-chave
+<h3>Temas recorrentes</h3>
+<h3>Quantas ocorrências da palavra-chave</h3>
