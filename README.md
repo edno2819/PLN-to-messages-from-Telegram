@@ -5,8 +5,8 @@
 <h2>Criação de IA's para classificação das menssagens</h2>
 <h2>Criação de um Dash Board para vizualização</h2>
 <h3>Filtra menssages:</h3>
- - Por pessoas
- - por sentimentos
- - Temas
+ <ul>Por pessoas</ul>
+ <ul>por sentimentos</ul>
+ <ul>Temas</ul>
 <h3>Temas recorrentes</h3>
 <h3>Quantas ocorrências da palavra-chave</h3>
